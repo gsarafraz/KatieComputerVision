@@ -1,1 +1,1 @@
-# KatieComputerVision
+# KatyComputerVision
